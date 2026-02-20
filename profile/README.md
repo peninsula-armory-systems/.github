@@ -1,8 +1,5 @@
 # armory-systems-armory
 
-## LICENSE
-- https://github.com/peninsula-armory-sytems/peninsula-server/LICENSE
-
 ## Ecosystem
 - This organization builds a software ecosystem.
 - The backend is the core service layer.
@@ -13,3 +10,6 @@
 - The architecture focuses on reliability and performance.
 - The goal is a clear separation between backend and client.
 - Each component is maintained as part of the same ecosystem.
+
+## License
+All projects of this organization is under this [LICENSE](https://github.com/peninsula-armory-sytems/peninsula-server/LICENSE).
